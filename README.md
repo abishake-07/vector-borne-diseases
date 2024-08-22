@@ -41,7 +41,7 @@ and explainability in healthcare AI.
 
 The project utilizes diverse datasets, including:
 
-- **Symptom-based Data:** Patient records and symptom data to identify patterns related to VBD. The link to the data is [here]. (https://www.kaggle.com/datasets/richardbernat/vector-borne-disease-prediction?resource=download)
+- **Symptom-based Data:** Patient records and symptom data to identify patterns related to VBD. The link to the data is here: https://www.kaggle.com/datasets/richardbernat/vector-borne-disease-prediction?resource=download
 
 ## Methodology
 
