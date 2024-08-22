@@ -11,7 +11,6 @@ This repository contains the code and resources for a project aimed at predictin
 - [Data Sources](#data-sources)
 - [Methodology](#methodology)
 - [Installation](#installation)
-- [Usage](#usage)
 
 
 ## Introduction
@@ -42,7 +41,7 @@ and explainability in healthcare AI.
 
 The project utilizes diverse datasets, including:
 
-- **Symptom-based Data:** Patient records and symptom data to identify patterns related to VBD.
+- **Symptom-based Data:** Patient records and symptom data to identify patterns related to VBD. The link to the data is [here]. (https://www.kaggle.com/datasets/richardbernat/vector-borne-disease-prediction?resource=download)
 
 ## Methodology
 
