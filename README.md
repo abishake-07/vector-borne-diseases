@@ -70,8 +70,6 @@ git clone https://github.com/your-username/vbd-project.git
 cd vector-borne-diseases
 pip install -r requirements.txt
 ```
-## Usage
-** If we are to be making it as a package please make the changes here **
 
 
 
